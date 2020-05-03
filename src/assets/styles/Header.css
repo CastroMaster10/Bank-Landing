@@ -1,0 +1,22 @@
+.nav-container{
+    background-color: hsl(0, 0%, 98%);
+    
+}
+
+.nav-logo{
+    margin-left: 75px;
+}
+
+.nav-group{
+    margin-left: 280px;
+    font-size: 12px;
+    
+}
+
+.nav-button{
+    border-radius: 50px;
+    padding: 5px 20px;
+    font-size: 13px;
+    color: white;
+    background: linear-gradient(rgb(0 ,215, 122),rgb(0 ,195, 187)); 
+}
